@@ -1,7 +1,7 @@
 # self-introduction
-Hello,i'm a student from ShangHai, China.</br>
+Hello,I'm an ordinary high school student from ShangHai, China.</br>
 
-All my repositories are used to review what i learned in school and explore something new for me.</br>
+All my repositories are used to review what I learned in school and explore something new for me.</br>
 
 )))Because our IT teacher's lectures are smelly and long.</br>
 (我们信息科技老师讲课又臭又长。)</br>
