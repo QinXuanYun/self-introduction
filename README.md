@@ -11,4 +11,4 @@ Hers teaching let students feel sleepy and let us don't want to listen to it at 
 
 So I want to use Github to record what I learned and to preview what I'm going to learn.</br>
 
-And then I can do other homework or sleep.
+And then I can do other homework or sleep on her class.
